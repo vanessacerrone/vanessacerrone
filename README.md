@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacerrone)](https://github.com/vanessacerrone/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
 <!--
 
 
