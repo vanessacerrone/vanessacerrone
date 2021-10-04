@@ -3,8 +3,8 @@
 
 Contacts:
 * E-mail: vanessa.cerrone@studenti.unipd.it
-* LinkedIn: [vanessacerrone] (www.linkedin.com/in/vanessa-cerrone)
-* Telegram: [vanessacerrone] (https://t.me/vanessacerrone)
+* LinkedIn: [Vanessa Cerrone](www.linkedin.com/in/vanessa-cerrone)
+* Telegram: [vanessacerrone](https://t.me/vanessacerrone)
 
 [![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
 
