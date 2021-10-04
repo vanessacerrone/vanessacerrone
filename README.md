@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+I'm a Master degree student (Physics of the fundamental interactions) at the University of Padua. 
 
-
-Contacts:
+### Contacts:
 * E-mail: vanessa.cerrone@studenti.unipd.it
 * LinkedIn: [Vanessa Cerrone](www.linkedin.com/in/vanessa-cerrone)
 * Telegram: [vanessacerrone](https://t.me/vanessacerrone)
 
+### Stats:
 [![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
 <!--
 
