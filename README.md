@@ -9,8 +9,9 @@ I'm a Master degree student (Physics of the fundamental interactions) at the Uni
 ### Stats:
 [![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacerrone&show_icons=true&theme=radical)](https://github.com/vanessacerrone/github-readme-stats)
-<!--
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=vanessacerrone&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
+<!--
 
 **vanessacerrone/vanessacerrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
