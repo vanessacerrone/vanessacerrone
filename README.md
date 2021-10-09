@@ -3,6 +3,7 @@ I'm a Master degree student (Physics of the fundamental interactions) at the Uni
 
 ### Contacts:
 * E-mail: vanessa.cerrone@studenti.unipd.it
+*         vanessa.cerrone@pd.infn.it
 * LinkedIn: [Vanessa Cerrone](https://www.linkedin.com/in/vanessa-cerrone-51129b220/)
 * Telegram: [vanessacerrone](https://t.me/vanessacerrone)
 
