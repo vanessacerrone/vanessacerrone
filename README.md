@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Master degree student (Physics of the fundamental interactions) at the University of Padua. 
+I'm a Master's degree student (Physics of the fundamental interactions) at the University of Padua. 
 ### Contact info:
 * E-mail: vanessa.cerrone@studenti.unipd.it, vanessa.cerrone@pd.infn.it
 
