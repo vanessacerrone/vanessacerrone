@@ -12,7 +12,7 @@ I'm a Master's degree student (Physics of the fundamental interactions) at the U
 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=vanessacerrone&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacerrone&show_icons=true&theme=graywhite&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacerrone&langs_count=8&show_icons=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
