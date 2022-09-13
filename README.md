@@ -22,7 +22,7 @@
 <a href="https://github.com/vanessacerrone#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=vanessacerrone&theme=graywhite&layout=compact&include_all_commits=true&langs_count=7&hide_border=1#gh-light-mode-only" alt="Vanessa's Language stats" />
 <a href="https://github.com/vanessacerrone#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=vanessacerrone&show_icons=true&count_private=true&line_height=28&&theme=graywhite&hide_border=1&include_all_commits=true&card_width=400&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Vanessa's Github stats" />
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=vanessacerrone&show_icons=true&count_private=true&line_height=28&&theme=graywhite&hide_border=1&include_all_commits=true&card_width=200&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Vanessa's Github stats" />
 </a>
 </div>
 
